@@ -3,3 +3,10 @@ An auto manufacturer would like to leverage summary statistics and statistical t
 
 
 ## Linear Regression to Predict MPG
+
+![image_name](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/LinRegressScreenshot.png)
+
+
+## Data Files and Links
+[MechaCar Rscript File](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
+
