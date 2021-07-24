@@ -13,7 +13,11 @@ With multivariate regression the most statistically significant variables impact
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.  When we look at all 3 lots together we see that the variance is within the acceptable range.  When we perform the statistical analysis on each inidividual lot we find that the variance is very tight for the first two lots, but the third lot has a variance well beyond the 100 pounds per square inch standard, and therefore does not pass quality control.
 
+#### Suspension Coils Total Summary Statisics 
+
 ![image_name](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/CoilTotalSummary.png)
+
+#### Suspension Coils Lot Summary Statisics
 
 ![image_name](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/CoilLotSummary.png)
 
