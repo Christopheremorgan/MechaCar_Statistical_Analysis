@@ -23,6 +23,23 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 
+T-Tests confirm what we found in the summary statistics of the the suspension coil lots.  Assuming a significance level of p = 0.05 or higher, there is evidence to reject the null hypothesis that lot 3 is statistically similar to the expected 1500 PSI standard for manufactured suspension coils.  In other words, lot 3 does not statistically meet the overall coil production standard when evaluated separately from the other two lots.
+
+#### T-Test Across All Coil Lots 
+
+![image_name](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/AllLotsTtest.png)
+
+#### T-Test Coil Lot 1
+
+![image_name](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/Lot1Ttest.png)
+
+#### T-Test Coil Lot 2
+
+![image_name](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/Lot2Ttest.png)
+
+#### T-Test Coil Lot 3
+
+![image_name](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/Lot3Ttest.png)
 
 
 ## Code File
