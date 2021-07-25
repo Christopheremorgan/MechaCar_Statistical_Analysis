@@ -21,6 +21,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ![image_name](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/CoilLotSummary.png)
 
+## T-Tests on Suspension Coils
+
+
+
 ## Code File
 [MechaCar Rscript File](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
 
