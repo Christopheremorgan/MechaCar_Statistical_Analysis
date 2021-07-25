@@ -42,6 +42,14 @@ T-Tests confirm what we found in the summary statistics of the the suspension co
 ![image_name](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/Lot3Ttest.png)
 
 
+## Study Design: MechaCar vs Competition
+
+The MechaCar Marketing department would like to run a campaign about how MechaCar's vehicles have the best fuel economy relative to their competitors and would like to update a statistcal study to ensure the campaign can move forward as planned.  MechaCar will compare city and highway fuel efficiency data for their cars and from same class cars from their competitors.  The data will be validated for randomness and biasness.
+
+A two sample t-test will be used to compare mpg data from MechaCar vehicles with the same class of vehicle from each competitor.  The null hypothesis will be that MechaCar MPG <= Competitor MPG while the alternative hypothesis is that MechaCar MPG > Competitor MPG.  
+
+
 ## Code File
+
 [MechaCar Rscript File](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
 
